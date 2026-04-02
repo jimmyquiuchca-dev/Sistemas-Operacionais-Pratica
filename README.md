@@ -1,0 +1,1 @@
+Este repositório contém uma série de relatórios técnicos desenvolvidos na UNICID sobre o funcionamento de SOs, cobrindo desde a inicialização (Bootstrapping) até segurança (Firewall) e gestão de memória.
